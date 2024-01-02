@@ -3,3 +3,6 @@ ncmdump
 
 .vscode
 .idea
+*.ncm
+*.mp3
+*.flac
